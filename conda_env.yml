@@ -1,0 +1,19 @@
+name: LHL_env
+channels:
+  - defaults
+dependencies:
+  - python=3.9.7
+  - ipykernel
+  - pandas
+  - matplotlib
+  - lxml
+  - scipy
+  - sqlalchemy
+  - psycopg2
+  - seaborn
+  - statsmodels
+  - ipywidgets
+  - notebook
+  - plotly=5.11.0
+  - jupyter-dash
+prefix: /Users/vivien/opt/anaconda3/envs/LHL_env
