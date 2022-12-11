@@ -72,7 +72,7 @@ __Models used in pipeline:__
 
 ---
 
-## _Challanges_
+## _Challenges_
 - Difficult and time-consuming process to deploy model to AWS
 - Figuring out how to get XGBoost to work properly
 
